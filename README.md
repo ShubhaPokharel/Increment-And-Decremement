@@ -4,7 +4,7 @@
 “The operator (++) and the operator (--) are Java's increment and decrement operators.”  They are used to increase and decrease the value. Increment and decrement are both part of the Unary Operators. Increment means increase and decrement means decrease.
 
 
-The increment operator adds one to its value, but the decrement operator subtracts one from its value( decrements its value by 1).
+The increment operator adds one to its value, but the decrement operator subtracts one from its value( decrements its value by 1). Then it will return the value.
 
 Ex:
 
@@ -75,7 +75,7 @@ class Test{
 
 ______________
 
-Increment and Decrement can not be applied on final variables, because we can’t change the value. It can not be applied for booleans. 
+Increment and Decrement can not be applied on final variables, because we can’t change the value. It can not be applied for booleans. It does not work for Strings or doubles.
 
 
 
